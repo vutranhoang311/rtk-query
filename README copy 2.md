@@ -1,19 +1,7 @@
 # React Redux Toolkit Typescript
 
-## Tác giả
-
-Dư Thanh Được
-
-- Website: [duthanhduoc.com](https://duthanhduoc.com)
-- Youtube: [Được Dev](https://www.youtube.com/channel/UCPTXoUNn3frLh8_jI1gAsBA)
-- Facebook Profile: [Dư Thanh Được](https://www.facebook.com/duthanhduoc/)
-- Fanpage: [Được Dev](https://www.facebook.com/duocdevofficial)
-- Tiktok: [Được Dev](https://www.tiktok.com/@duocdev)
-- Instagram: [Được Dev](https://www.instagram.com/duocdev/)
-
 ## Bạn sẽ học được gì từ repository này
 
-Để xem đầy đủ series, các bạn có thể xem tại Youtube: [Hướng dẫn React Redux Typescript chuyên sâu | Redux Toolkit phiên bản mới](https://www.youtube.com/playlist?list=PLFfVmM19UNqmDPV_8K6YjiBNXimQna6wW)
 
 - Cách setup một dự án React với CRA, Typescript, Editor Config, Prettier, Eslint, Tailwindcss
 - Hiểu cách hoạt động của Redux, tại sao nên dùng Redux Toolkit thay cho Redux
